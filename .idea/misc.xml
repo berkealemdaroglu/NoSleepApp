@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/drawable/ic_button_icon.xml" value="0.314" />
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/drawable/ic_get_started_bottom_background.xml" value="0.314" />
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/drawable/ic_get_started_circle_background.xml" value="0.314" />
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/drawable/ic_get_started_human.xml" value="0.522" />
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/drawable/ic_login_screen_bottom_background.xml" value="0.542" />
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/drawable/ic_login_top_background.xml" value="0.314" />
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/drawable/ic_no_sleep_logo.xml" value="0.314" />
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/drawable/test.xml" value="0.5435" />
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/layout-v28/fragment_get_started.xml" value="0.3098958333333333" />
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/layout-v28/fragment_login_get_started.xml" value="0.3109375" />
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/layout/activity_main.xml" value="0.5359375" />
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/layout/fragment_crate_account.xml" value="0.22" />
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/layout/fragment_get_started.xml" value="0.3162100456621005" />
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/layout/fragment_home.xml" value="0.3109375" />
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/layout/fragment_login.xml" value="0.5" />
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/layout/fragment_login2.xml" value="0.55" />
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/layout/fragment_login_get_started.xml" value="0.33" />
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/layout/fragment_sign_up_choose.xml" value="0.3109375" />
+        <entry key="..\:/Users/ersin/FMSS/NoSleepApp/app/src/main/res/layout/fragment_sign_up_notification.xml" value="0.3109375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3162100456621005" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

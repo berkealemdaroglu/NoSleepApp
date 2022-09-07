@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NoSleepApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hi_welcome">Hi, Welcome</string>
+    <string name="want_to_join_us">Want to Join Us?</string>
+    <string name="_2165_person_meditating_right_now">2165 person meditating right now!</string>
+    <string name="join_with_google">Join with google</string>
+    <string name="get_started">Get Started</string>
+    <string name="join_with_mail">Join with mail</string>
+    <string name="logo">Logo</string>
+    <string name="bottom_background">Bottom background</string>
+    <string name="create_account">CREATE ACCOUNT :)</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="username">USERNAME</string>
+    <string name="cloud_logo_image">Cloud Logo Image</string>
+    <string name="to_nosleep">To NoSleep</string>
+    <string name="get_started_with_app_where_you_n_can_find_some_peace">Get started with app where you\n can find some peace</string>
+    <string name="home_screen">HOME SCREEN</string>
+    <string name="welcome_back">WELCOME BACK!</string>
+    <string name="login">LOGIN</string>
+    <string name="create_account_button">CREATE ACCOUNT</string>
+    <string name="notification_screen">NOTIFICATION SCREEN</string>
+    <string name="button">Button</string>
+    <string name="choose_screen">CHOOSE SCREEN</string>
+</resources>
