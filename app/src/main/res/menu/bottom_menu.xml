@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/homeMenu"
+        android:icon="@drawable/ic_home_icon"
+        android:id="@+id/home"/>
+    <item android:title="@string/sleepMenu"
+        android:icon="@drawable/ic_sleep_icon"
+        android:id="@+id/sleep"/>
+    <item android:title="@string/libraryMenu"
+        android:icon="@drawable/ic_library_icon"
+        android:id="@+id/library"/>
+    <item android:title="@string/musicMenu"
+        android:icon="@drawable/ic_music_icon"
+        android:id="@+id/music"/>
+    <item android:title="@string/profileMenu"
+        android:icon="@drawable/ic_profile_icon"
+        android:id="@+id/profile"/>
+</menu>

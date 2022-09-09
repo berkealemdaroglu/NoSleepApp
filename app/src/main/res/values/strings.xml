@@ -24,4 +24,9 @@
     <string name="notification_screen">NOTIFICATION SCREEN</string>
     <string name="button">Button</string>
     <string name="choose_screen">CHOOSE SCREEN</string>
+    <string name="homeMenu">Home</string>
+    <string name="sleepMenu">Sleep</string>
+    <string name="libraryMenu">Library</string>
+    <string name="musicMenu">Music</string>
+    <string name="profileMenu">Profile</string>
 </resources>
