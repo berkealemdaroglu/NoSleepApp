@@ -31,6 +31,10 @@
         <action
             android:id="@+id/action_loginFragment_to_crateAccountFragment"
             app:destination="@id/crateAccountFragment" />
+        <action
+            android:id="@+id/action_loginFragment_to_homeActivity"
+            app:destination="@id/homeActivity"
+            />
     </fragment>
     <fragment
         android:id="@+id/crateAccountFragment"
@@ -55,4 +59,8 @@
         android:name="com.ersinberkealemdaroglu.nosleepapp.ui.login.onboarding.SignUpNotificationFragment"
         android:label="SignUpNotificationFragment"
         tools:layout="@layout/fragment_sign_up_notification"/>
+    <activity
+        android:id="@+id/homeActivity"
+        android:name="com.ersinberkealemdaroglu.nosleepapp.HomeActivity"
+        android:label="HomeActivity" />
 </navigation>

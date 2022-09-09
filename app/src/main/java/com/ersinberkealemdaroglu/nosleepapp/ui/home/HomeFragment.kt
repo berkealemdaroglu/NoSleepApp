@@ -22,7 +22,7 @@ class HomeFragment : Fragment() {
         super.onCreate(savedInstanceState)
 
         sharedPreferences = activity?.getSharedPreferences("login", Context.MODE_PRIVATE)?: sharedPreferences
-
+        findNavController().popBackStack()
     }
 
     override fun onCreateView(
@@ -31,6 +31,7 @@ class HomeFragment : Fragment() {
     ): View {
         binding = FragmentHomeBinding.inflate(inflater)
         return binding.root
+        
 
     }
 

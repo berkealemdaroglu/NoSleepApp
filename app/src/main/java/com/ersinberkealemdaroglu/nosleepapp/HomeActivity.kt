@@ -22,6 +22,7 @@ class HomeActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         bottomNavigationSetup()
+
     }
 
     private fun bottomNavigationSetup(){

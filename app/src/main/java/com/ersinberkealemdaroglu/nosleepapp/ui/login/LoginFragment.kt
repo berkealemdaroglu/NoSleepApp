@@ -14,6 +14,7 @@ import androidx.navigation.fragment.findNavController
 import com.ersinberkealemdaroglu.nosleepapp.HomeActivity
 import com.ersinberkealemdaroglu.nosleepapp.R
 import com.ersinberkealemdaroglu.nosleepapp.data.UserDataClass
+import com.ersinberkealemdaroglu.nosleepapp.data.Utils
 import com.ersinberkealemdaroglu.nosleepapp.databinding.FragmentLoginBinding
 
 class LoginFragment : Fragment() {
@@ -62,10 +63,9 @@ class LoginFragment : Fragment() {
                 sharedPreferences.edit {
                     putBoolean("login", true)
                 }
-
+                context?.let { context -> Utils.backStack(context, HomeActivity()) }
                 Toast.makeText(context, "giriş yapıldı", Toast.LENGTH_SHORT).show()
-                val intent = Intent(activity, HomeActivity::class.java)
-                startActivity(intent)
+
             }
         }
     }
